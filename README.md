@@ -49,7 +49,7 @@ Looking forward, I'm expanding my skill set to include **TensorFlow** to explore
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/JetBrains_PyCharm_Product_Icon.svg" alt="PyCharm" title="PyCharm" width="36" height="36" /></a>
-  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"><img src="<CLION HERE>" alt="CLion" title="CLion" width="36" height="36" /></a>
+  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"><img src="clion-8.png" alt="CLion" title="CLion" width="36" height="36" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="36" height="36" /></a>
 </p>
 
