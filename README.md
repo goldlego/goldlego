@@ -29,8 +29,6 @@ My journey has been a focused pursuit of knowledge, moving from fundamental conc
 
 One of my proudest projects is a **custom IDE I built in Python**. This tool allows a developer to write HTML, CSS, and JavaScript simultaneously, streamlining the web development workflow. It's a testament to my ability to not only use languages but also to build the tools that make coding more efficient.
 
-Looking forward, I'm expanding my skill set to include **TensorFlow** to explore the world of AI. This next step is driven by a desire to apply my problem-solving skills to new and challenging domains. Whether it's building engaging web experiences or crafting intricate game mechanics, I am dedicated to continuous learning and using code to turn ambitious ideas into reality.
-
 ---
 
 ### My Skills & Tools
