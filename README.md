@@ -23,11 +23,11 @@ e
 
 ### About Me
 
-I first discovered programming through a passion for **video games**, a medium that captured my imagination. As a creative person who often felt limited by a lack of resources, the realization that I could build entire virtual worlds from scratch with just a computer was incredibly liberating. This discovery set me on a path of self-learning and exploration, where every line of code became a tool to bring my ideas to life.
+I first discovered programming through a passion for **video games**—a medium that captured my imagination and showed me how liberating it is to build entire virtual worlds from scratch. That initial spark set me on a path of self-learning, evolving from game logic into a deep fascination with the complex systems that power the web.
 
-My journey has been a focused pursuit of knowledge, moving from fundamental concepts to building complex systems. I started with languages like **C++** and **Java**, which taught me the importance of structure and object-oriented principles. This foundation has shaped my philosophy: I am a firm believer in **clean, optimized code** and the **DRY (Don't Repeat Yourself)** principle. I strive to write elegant and efficient programs that are both powerful and easy to maintain.
+Today, as a **CSE AI student at Amrita**, I channel that creative energy into building intelligent, scalable backend architectures. I specialize in **Python and Flask**, focusing on bridging the gap between machine learning models and functional web applications. 
 
-One of my proudest projects is a **custom IDE I built in Python**. This tool allows a developer to write HTML, CSS, and JavaScript simultaneously, streamlining the web development workflow. It's a testament to my ability to not only use languages but also to build the tools that make coding more efficient.
+My early foundations in C++ and Java taught me the importance of strict structure and object-oriented principles. I am a firm believer in **clean, optimized code** and the **DRY (Don't Repeat Yourself)** principle. You can see this philosophy in action in one of my proudest projects: a **[custom IDE I built in Python](#)** that allows developers to write HTML, CSS, and JavaScript simultaneously to streamline their workflow.
 
 ---
 
